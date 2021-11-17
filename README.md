@@ -4,12 +4,13 @@ In this repository I am sharing my learnings as well as few of my experiments. T
 
 ## Get started with Node.js & npm
 
-- Install the CLI tool globally
+```shell
+# Install the CLI tool globally
 npm install canvas-sketch-cli -g
 
-- Scaffold a 'sketch.js' file and open the browser
+# Scaffold a 'sketch.js' file and open the browser
 canvas-sketch sketch-01.js --open
-
+```
 
 ## Resources
 - [Creative coding: Making Visuals with JavaScript](https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript)
